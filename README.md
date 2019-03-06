@@ -6,4 +6,7 @@ Python 3
 Opencv
 Numpy
 
+<br>
+<img src="https://raw.githubusercontent.com/xkiddie/sketchopencv/master/desenho.jpg">
+</br>
 
